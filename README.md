@@ -80,7 +80,4 @@ Go to Product Gallery to add your first product with multiple images.
 
 👨‍💻 Developer Information
 Developer: Asif
-
-Portfolio: qlorbit.com
-
 WhatsApp: +8801758040074
